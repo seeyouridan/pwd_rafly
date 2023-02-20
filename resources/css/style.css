@@ -1,0 +1,229 @@
+.navbar {
+	background-color: #06283D;
+	opacity: 75%;
+}
+
+.nav {
+	margin-left: 76px;
+}
+
+.nav a {
+	-webkit-trasition: 0.25s ease;
+	transition: 0.25s ease;
+	color: white;
+}
+
+.nav a:hover {
+	color: aqua;
+	text-shadow: 2px 2px 5px white;
+}
+
+.navbar-brand img {
+	height: 30px;
+	-webkit-trasition: 0.3s ease;
+	transition: 0.3s ease;
+}
+
+.navbar-brand img:hover {
+	-webkit-transform: scale(1.25);
+	transform: scale(1.25);
+}
+
+.tampilan1 {
+	background-color: white;
+}
+
+.tampilan1 .carousel-control-prev:hover {
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+}
+
+.tampilan1 .carousel-control-next:hover {
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+}
+
+.carousel-control-prev {
+	-webkit-trasition: 0.25s ease;
+	transition: 0.25s ease;
+}
+
+.carousel-control-next {
+	-webkit-trasition: 0.25s ease;
+	transition: 0.25s ease;
+}
+
+.carousel-item {
+	height: 600px;
+	width: 100%; /*964.8 px*/
+}
+
+.carousel-item img {
+	height: 900px;
+	width: 100%;
+}
+
+.tampilan2 {
+	background-color: #ffffff;
+	padding: 90px 100px 90px 100px;
+}
+
+.tampilan3 {
+	background-color: #DFF6FF;
+	height: 450px;
+}
+
+.tampilan3 .container {
+	height: 450px;
+	width: 700px;
+	margin-left: -30px;
+	overflow: hidden;
+}
+
+.container img {
+	margin-left: -140px;
+	height: 450px;
+	-webkit-trasition: 0.4s ease;
+	transition: 0.4s ease;
+}
+
+.container img:hover {
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+}
+
+.tampilan3 .col {
+	padding-top: 77px;
+	padding-bottom: 50px;
+}
+
+.tampilan3 .btn {
+	background-color: #06283D;
+}
+
+.tampilan3 .btn:hover {
+	background-color: white;
+}
+
+.tampilan4 {
+	background-color: #ffffff;
+	padding: 60px 60px 50px 100px;
+}
+
+.tampilan4 .col {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.teks {
+	width: 700px;
+	margin-left: 100px;
+	margin-right: 50px;
+}
+
+.teks h1 {
+	padding-bottom: 10px;
+}
+
+.teks p {
+	text-align: center;
+}
+
+.teks a {
+	background-color: #06283D;
+	opacity: 75%;
+	color: white;
+	width: 120px;
+	height: 40px;
+	margin-top: 10px;
+}
+
+.btn {
+	border-radius: 20px;
+}
+
+.btn:hover {
+	background-color: #DFF6FF;
+	box-shadow: 2px 2px 5px black;
+	color: black;
+}
+
+.border {
+	padding: 30px 55px 30px 55px;
+	border-radius: 10px;
+}
+
+.card {
+	width: 280px;
+	margin-right: 100px;
+	overflow: hidden;
+	-webkit-trasition: 0.4s ease;
+	transition: 0.4s ease;
+}
+
+.card p {
+	margin-top: 10px;
+}
+
+.card img {
+	-webkit-trasition: 0.4s ease;
+	transition: 0.4s ease;
+}
+
+.card:hover img {
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+}
+
+.card:hover {
+	box-shadow: 4px 4px 7px black;
+	transition-duration: 0.45s;
+}
+
+.card-body {
+	-webkit-trasition: 0.4s ease;
+	transition: 0.4s ease;
+}
+
+.card:hover .card-body {
+	margin-top: 20px;
+}
+
+.tampilan5 {
+	opacity: 80%;
+	background-color: black;
+	color: white;
+}
+
+.tampilan5 .d-flex {
+	justify-content: center;
+	align-items: center;
+}
+
+.d-flex i {
+	opacity: 50%;
+	-webkit-trasition: 0.25s ease;
+	transition: 0.25s ease;
+}
+
+.d-flex a {
+	cursor: pointer;
+}
+
+.d-flex i:hover {
+	opacity: 100%;
+	-webkit-transform: scale(1.35);
+	transform: scale(1.35);
+}
+
+.perlinkan a {
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+	-webkit-trasition: 0.3s ease;
+	transition: 0.3s ease;
+}
+
+.perlinkan a:hover {
+	text-shadow: 2px 2px 5px white;
+}
